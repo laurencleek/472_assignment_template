@@ -12,6 +12,7 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE) # actually set the global chunk options. 
 # we set echo=FALSE to suppress code such that it by default does not appear throughout the document. 
 # note: this is different from .Rmd default
+#ok
 ```
 
 This document contains the necessary commands and layout to meet the formatting requirements for MY472. You should use the template.Rmd file as the basis for your own answers to the assigned exercises.
